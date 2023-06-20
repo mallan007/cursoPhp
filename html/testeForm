@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Documento com Teste - Form</title>
+</head>
+<body>
+  <h1>Teste com Form!</h1>
+  <form method="GET" action="https://www.google.com/search" target="_blank">
+    <input type="text" value="" name="nome" placeholder="Nome">
+    <input type="text" value="" name="endereco" placeholder="Endereço">
+    <input type="submit" value="googlar">
+  </form>
+</body>
+</html>
